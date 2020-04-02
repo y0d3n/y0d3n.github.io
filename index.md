@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "y0d3n"
-logo: ./icon.png
 ---
 # y0d3n (2000/9/23)
 ## link
