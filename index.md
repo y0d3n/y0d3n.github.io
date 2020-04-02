@@ -7,21 +7,21 @@ layout: default
  - [Twitter](https://twitter.com/y0d3n)
  - [Qiita](https://qiita.com/y0d3n)
 
-## about
+## About
 
-### interest
+### Interest
 WebSec, CTF, VOCALOID 
 
-### birthday
+### Birthday
 2000/9/23
 
-### school
+### School
 Information Science College
 
-### circle
+### Circle
 IPFactory
 
-## using
+## Using
 
 ### PC
 Let's note
