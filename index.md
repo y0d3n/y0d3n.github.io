@@ -1,3 +1,8 @@
+---
+layout: default
+title: "y0d3n"
+discription: ""
+---
 # y0d3n (2000/9/23)
 ![icon](./icon_250.png)
 ## link
