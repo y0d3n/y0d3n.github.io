@@ -2,10 +2,15 @@
 layout: default
 ---
 # y0d3n
+
+* * *
+
 ## link
  - [GitHub](https://github.com/y0d3n)
  - [Twitter](https://twitter.com/y0d3n)
  - [Qiita](https://qiita.com/y0d3n)
+
+* * *
 
 ## About
 
@@ -19,7 +24,9 @@ WebSec, CTF, VOCALOID
 Information Science College
 
 ### Circle
-IPFactory
+[IPFactory](https://ipfactory.github.io/)
+
+* * *
 
 ## Using
 
