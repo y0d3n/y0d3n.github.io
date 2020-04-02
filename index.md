@@ -5,7 +5,7 @@ layout: default
 
 * * *
 
-## link
+## Links
  - [GitHub](https://github.com/y0d3n)
  - [Twitter](https://twitter.com/y0d3n)
  - [Qiita](https://qiita.com/y0d3n)
