@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "y0d3n"
+logo: ./icon.png
 ---
 # y0d3n (2000/9/23)
-![icon](./icon_250.png)
 ## link
  - [GitHub](https://github.com/y0d3n)
  - [Twitter](https://twitter.com/y0d3n)
