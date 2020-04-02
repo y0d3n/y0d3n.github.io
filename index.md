@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "y0d3n"
-discription: ""
 ---
 # y0d3n (2000/9/23)
 ![icon](./icon_250.png)
@@ -11,7 +10,7 @@ discription: ""
  - [Qiita](https://qiita.com/y0d3n)
 
 ## about
-Engineer interested in **Web sec**
+I am an engineer interested in **Web sec**
 
 ## using
 ### PC
