@@ -1,16 +1,28 @@
 ---
 layout: default
 ---
-# y0d3n (2000/9/23)
+# y0d3n
 ## link
  - [GitHub](https://github.com/y0d3n)
  - [Twitter](https://twitter.com/y0d3n)
  - [Qiita](https://qiita.com/y0d3n)
 
 ## about
-I am an engineer interested in **Web sec**
+
+### interest
+WebSec, CTF, VOCALOID 
+
+### birthday
+2000/9/23
+
+### school
+Information Science College
+
+### circle
+IPFactory
 
 ## using
+
 ### PC
 Let's note
 
