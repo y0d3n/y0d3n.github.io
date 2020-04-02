@@ -15,7 +15,7 @@ layout: default
 ## About
 
 ### Interest
-WebSec, CTF, VOCALOID 
+Capture The Flag, Web security, Competitive programming, VOCALOID 
 
 ### Birthday
 2000/9/23
