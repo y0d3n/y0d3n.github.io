@@ -15,7 +15,7 @@ layout: default
 ## About
 
 ### Interest
-Capture The Flag, Web security, Competitive programming, VOCALOID 
+Capture The Flag, Bug Hunting, Competitive programming, VOCALOID 
 
 ### Birthday
 2000/9/23
