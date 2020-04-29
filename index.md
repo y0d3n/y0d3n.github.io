@@ -7,7 +7,7 @@ layout: default
 
 ## Links
 
- - <a href="https://github.com/y0d3n" target="_blank">Github</a>
+ - [Github](https://github.com/y0d3n)
  - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
  - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
 
