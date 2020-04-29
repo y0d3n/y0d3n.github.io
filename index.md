@@ -6,9 +6,10 @@ layout: default
 * * *
 
 ## Links
- - [GitHub](https://github.com/y0d3n)
- - [Twitter](https://twitter.com/y0d3n)
- - [Qiita](https://qiita.com/y0d3n)
+
+ - [GitHub](https://github.com/y0d3n){:target="_blank"}
+ - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
+ - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
 
 * * *
 
@@ -18,10 +19,10 @@ layout: default
 Information Science College
 
 ### Circle
-[IPFactory](https://ipfactory.github.io/)
+[IPFactory](https://ipfactory.github.io/){:target="_blank"}
 
 ### CTF Team
-[After_the_CM](https://ctftime.org/team/118161)
+[After_the_CM](https://ctftime.org/team/118161){:target="_blank"}
 
 ### Interests
 Bug Hunting ,Capture The Flag, Competitive programming
