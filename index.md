@@ -7,7 +7,7 @@ layout: default
 
 ## Links
 
- - [Github](https://github.com/y0d3n)
+ - [Github](https://github.com/y0d3n){:target="_blank"}
  - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
  - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
 
