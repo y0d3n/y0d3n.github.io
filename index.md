@@ -44,7 +44,7 @@ iPhone Xs, HUAWEI P9
 Corne Cherry Light, Corne Chocolate
 
 ### Editor
-Visual Studio Code, Vim
+Vim, Visual Studio Code
 
 ### Lang
-Japanese, Golang
+Golang, Japanese
