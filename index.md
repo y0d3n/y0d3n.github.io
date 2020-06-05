@@ -10,7 +10,7 @@ layout: default
  - [Github](https://github.com/y0d3n){:target="_blank"}
  - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
  - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
- - [Hatena Blog](https://y0d3n.hatenablog.com/about){:target="_blank"}
+ - [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
 
 * * *
 
