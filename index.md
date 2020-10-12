@@ -11,6 +11,7 @@ layout: default
  - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
  - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
  - [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
+ - [CTFtime](https://ctftime.org/user/79132){:target="_blank"}
 
 * * *
 
@@ -45,7 +46,7 @@ iPhone Xs, HUAWEI P9
 Corne Cherry Light, Corne Chocolate
 
 ### Editor
-Vim, Visual Studio Code
+Visual Studio Code, Vim
 
 ### Lang
 Golang, Japanese
