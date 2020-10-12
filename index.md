@@ -13,7 +13,7 @@ layout: default
  - [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
  - [CTFtime](https://ctftime.org/user/79132){:target="_blank"}
  - [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r){:target="_blank"}
- - [connpass]{https://connpass.com/user/kirby923ya/}{:target="_blank"}
+ - [connpass](https://connpass.com/user/kirby923ya/){:target="_blank"}
 
 * * *
 
