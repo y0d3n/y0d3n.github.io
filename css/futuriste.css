@@ -4,7 +4,7 @@
 }
 
 body {
-    background: black;
+    background: white;
 }
 
 .st0 {
@@ -23,22 +23,22 @@ svg {
     width: 500px;
     height: 400px;
     text-align: center;
-    fill: #16a085;
+    fill: #1DA1F2;
 }
 
 path#XMLID_5_ {
-    fill: #16a085;
+    fill: #1DA1F2;
     filter: url(#blurFilter4);
 }
 
 path#XMLID_11_,
 path#XMLID_2_ {
-    fill: #16a085;
+    fill: #1DA1F2;
 }
 
 .circle {
     animation: out 2s infinite ease-out;
-    fill: #16a085;
+    fill: #1DA1F2;
 }
 
 #container {
@@ -46,7 +46,7 @@ path#XMLID_2_ {
 }
 
 .message {
-    color: #16a085;
+    color: #1DA1F2;
 }
 
 .message:after {
@@ -59,7 +59,7 @@ path#XMLID_2_ {
 
 .message:after,
 .message:before {
-    color: #16a085;
+    color: #1DA1F2;
     font-size: 20px;
     -webkit-animation-name: opacity;
     -webkit-animation-duration: 2s;
