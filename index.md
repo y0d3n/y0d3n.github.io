@@ -39,7 +39,7 @@ Bug Hunting ,Capture The Flag, Competitive programming
 ## Using
 
 ### PC
-Let's note
+Let's note, ThinkPad X1 Carbon Gen 8
 
 ### Smart Phone
 iPhone Xs, HUAWEI P9
