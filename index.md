@@ -45,7 +45,7 @@ Bug Hunting ,Capture The Flag, Competitive programming
 
 ### PC
 
-Let's note
+Let's note, ThinkPad X1 Carbon Gen 8
 
 ### Smart Phone
 
