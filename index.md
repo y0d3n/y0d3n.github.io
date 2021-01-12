@@ -7,31 +7,36 @@ layout: default
 
 ## Links
 
- - [Github](https://github.com/y0d3n){:target="_blank"}
- - [Twitter](https://twitter.com/y0d3n){:target="_blank"}
- - [Qiita](https://qiita.com/y0d3n){:target="_blank"}
- - [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
- - [CTFtime](https://ctftime.org/user/79132){:target="_blank"}
- - [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r){:target="_blank"}
- - [connpass](https://connpass.com/user/kirby923ya/){:target="_blank"}
+- [Github](https://github.com/y0d3n){:target="_blank"}
+- [Twitter](https://twitter.com/y0d3n){:target="_blank"}
+- [Qiita](https://qiita.com/y0d3n){:target="_blank"}
+- [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
+- [CTFtime](https://ctftime.org/user/79132){:target="_blank"}
+- [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r){:target="_blank"}
+- [connpass](https://connpass.com/user/kirby923ya/){:target="_blank"}
 
 * * *
 
 ## About
 
 ### School
+
 Information Science College
 
 ### Circle
+
 [IPFactory](https://ipfactory.github.io/){:target="_blank"}
 
 ### CTF Team
+
 [After_the_CM](https://ctftime.org/team/118161){:target="_blank"}
 
 ### Interests
+
 Bug Hunting ,Capture The Flag, Competitive programming
 
 ### Birthday
+
 2000/9/23
 
 * * *
@@ -39,16 +44,21 @@ Bug Hunting ,Capture The Flag, Competitive programming
 ## Using
 
 ### PC
+
 Let's note
 
 ### Smart Phone
+
 iPhone Xs, HUAWEI P9
 
 ### Keyboard
+
 Corne Cherry Light, Corne Chocolate
 
 ### Editor
+
 Visual Studio Code, Vim
 
 ### Lang
+
 Golang, Japanese
