@@ -155,7 +155,7 @@
         ]
     };
 
-    function hoge(elm) {
+    function display(elm) {
         shelf = document.getElementById(elm);
         for (i = 0; i < books[elm].length; i++) {
             msg = '<dl><dt><strong><a href="' + books[elm][i].url + '">' + books[elm][i].title + '</strong></dt><dd><img src="./img/' + books[elm][i].img + '"></a></dd></dl>';
@@ -163,8 +163,8 @@
         }
     }
 
-    hoge("sec")
-    hoge("dev")
+    display("sec")
+    display("dev")
 </script>
 
 </html>
