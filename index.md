@@ -30,6 +30,7 @@ Information Science College
 ### CTF Team
 
 [After_the_CM](https://ctftime.org/team/118161){:target="_blank"}
+[IPFactory](https://ctftime.org/team/11420){:target="_blank"}
 
 ### Interests
 
