@@ -50,7 +50,7 @@ Let's note, ThinkPad X1 Carbon Gen 8
 
 ### Smart Phone
 
-iPhone Xs, HUAWEI P9
+iPhone 13 mini, iPhone Xs, HUAWEI P9
 
 ### Keyboard
 
