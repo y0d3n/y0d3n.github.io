@@ -34,7 +34,7 @@ Information Science College
 
 ### Interests
 
-Bug Hunting ,Capture The Flag, Competitive programming
+Web Security, Bug Hunting ,Capture The Flag
 
 ### Birthday
 
@@ -54,7 +54,7 @@ iPhone 13 mini, iPhone Xs, HUAWEI P9
 
 ### Keyboard
 
-Corne Cherry Light, Corne Chocolate
+Corne Cherry V3, Corne Cherry Light, Corne Chocolate
 
 ### Editor
 
