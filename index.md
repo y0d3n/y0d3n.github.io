@@ -64,6 +64,3 @@ Visual Studio Code, Vim
 
 Golang, Japanese
 
-* * *
-
-- [book shelf](https://y0d3n.github.io/bookshelf.html)
