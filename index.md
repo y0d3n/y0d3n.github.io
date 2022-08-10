@@ -54,7 +54,7 @@ iPhone 13 mini, iPhone Xs, HUAWEI P9
 
 ### Keyboard
 
-Corne Cherry V3, Corne Cherry Light, Corne Chocolate
+cocot46plus, Corne Cherry V3, Corne Cherry Light, Corne Chocolate
 
 ### Editor
 
