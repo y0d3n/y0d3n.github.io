@@ -7,30 +7,25 @@ layout: default
 
 ## Links
 
-- [Github](https://github.com/y0d3n){:target="_blank"}
-- [Twitter](https://twitter.com/y0d3n){:target="_blank"}
-- [Qiita](https://qiita.com/y0d3n){:target="_blank"}
-- [Hatena Blog](https://y0d3n.hatenablog.com/){:target="_blank"}
-- [CTFtime](https://ctftime.org/user/79132){:target="_blank"}
-- [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r){:target="_blank"}
-- [connpass](https://connpass.com/user/kirby923ya/){:target="_blank"}
+- [Github](https://github.com/y0d3n)
+- [Twitter](https://twitter.com/y0d3n)
+- [Hatena Blog](https://y0d3n.hatenablog.com/)
+- [CTFtime](https://ctftime.org/user/79132)
+- [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r)
+- [connpass](https://connpass.com/user/kirby923ya/)
 
 * * *
 
 ## About
 
-### School
-
-Information Science College
-
 ### Circle
 
-[IPFactory](https://ipfactory.github.io/){:target="_blank"}
+[IPFactory](https://ipfactory.github.io/)
 
 ### CTF Team
 
-[After_the_CM](https://ctftime.org/team/118161){:target="_blank"}
-[IPFactory](https://ctftime.org/team/11420){:target="_blank"}
+[After_the_CM](https://ctftime.org/team/118161)
+[IPFactory](https://ctftime.org/team/11420)
 
 ### Interests
 
