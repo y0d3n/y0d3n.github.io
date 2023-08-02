@@ -8,7 +8,7 @@ layout: default
 ## Links
 
 - [Github](https://github.com/y0d3n)
-- [Twitter](https://twitter.com/y0d3n)
+- [𝕏 (Twitter)](https://twitter.com/y0d3n)
 - [Hatena Blog](https://y0d3n.hatenablog.com/)
 - [CTFtime](https://ctftime.org/user/79132)
 - [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r)
