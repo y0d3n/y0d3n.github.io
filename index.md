@@ -49,7 +49,7 @@ iPhone 13 mini, iPhone Xs, HUAWEI P9
 
 ### Keyboard
 
-cocot46plus, Corne Cherry V3, Corne Cherry Light, Corne Chocolate
+cocot46plus ([keymap](https://remap-keys.app/catalog/JPk6Ey9xB6yrr5TDqoLh/keymap?id=lZBYnv19INZpBX0zqAox)), Corne Cherry V3, Corne Cherry Light, Corne Chocolate
 
 ### Editor
 
