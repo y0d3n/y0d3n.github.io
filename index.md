@@ -29,7 +29,7 @@ layout: default
 
 ### Interests
 
-Web Security, Bug Hunting ,Capture The Flag
+Web Security, Capture The Flag, Bug Hunting
 
 ### Birthday
 
@@ -41,11 +41,11 @@ Web Security, Bug Hunting ,Capture The Flag
 
 ### PC
 
-Let's note, ThinkPad X1 Carbon Gen 8
+ThinkPad X1 Carbon Gen 8
 
 ### Smart Phone
 
-iPhone 13 mini, iPhone Xs, HUAWEI P9
+iPhone 13 mini, iPhone Xs
 
 ### Keyboard
 
@@ -58,4 +58,3 @@ Visual Studio Code, Vim
 ### Lang
 
 Golang, Japanese
-
