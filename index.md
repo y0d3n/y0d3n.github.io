@@ -8,6 +8,7 @@ layout: default
 ## Links
 
 - [Github](https://github.com/y0d3n)
+- [Bluesky](https://bsky.app/profile/y0d3n.bsky.social)
 - [𝕏 (Twitter)](https://twitter.com/y0d3n)
 - [Hatena Blog](https://y0d3n.hatenablog.com/)
 - [CTFtime](https://ctftime.org/user/79132)
