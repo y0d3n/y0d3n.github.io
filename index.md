@@ -36,9 +36,10 @@ Web Security, Capture The Flag, Bug Hunting
 
 2000/9/23
 
-### CVE(s)
+### CVE
 
 - [CVE-2023-50709 - Denial of service attack on the cube](https://github.com/cube-js/cube/security/advisories/GHSA-9759-3276-g2pm)
+- [CVE-2024-22778 - Denial of service attack on the CodiMD](https://github.com/hackmdio/codimd/issues/1846)
 
 * * *
 
