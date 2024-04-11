@@ -43,6 +43,11 @@ Web Security, Capture The Flag, Bug Hunting
 - [CVE-2023-34423 - Stored XSS on Survey Maker](https://jvn.jp/jp/JVN51098626/)
 - [CVE-2023-35764 - Insufficient Verification of Data Authenticity on Survey Maker](https://jvn.jp/jp/JVN51098626/)
 
+### Qualification
+
+- [OffSec Web Expert (OSWE)](https://www.credential.net/1795b0db-f7ba-4984-ae88-838790037e2f)
+- 基本情報技術者試験
+
 * * *
 
 ## Using
