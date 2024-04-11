@@ -47,6 +47,7 @@ Web Security, Capture The Flag, Bug Hunting
 
 - [OffSec Web Expert (OSWE)](https://www.credential.net/1795b0db-f7ba-4984-ae88-838790037e2f)
 - 基本情報技術者試験
+- ITパスポート
 
 * * *
 
