@@ -42,7 +42,7 @@ Web Security, Capture The Flag, Bug Hunting
 - [CVE-2024-22778 - Denial of service attack on the CodiMD](https://github.com/hackmdio/codimd/issues/1846)
 - [CVE-2023-34423 - Stored XSS on Survey Maker](https://jvn.jp/jp/JVN51098626/)
 - [CVE-2023-35764 - Insufficient Verification of Data Authenticity on Survey Maker](https://jvn.jp/jp/JVN51098626/)
-- [CVE-2024-23340 - Denial of service attack on the @hono/node-server](https://nvd.nist.gov/vuln/detail/CVE-2024-23340)
+- [CVE-2024-23340 - Denial of service attack on the @hono/node-server](https://github.com/honojs/node-server/security/advisories/GHSA-hgxw-5xg3-69jx)
 
 ### Qualification
 
