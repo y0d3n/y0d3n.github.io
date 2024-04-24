@@ -43,6 +43,7 @@ Web Security, Capture The Flag, Bug Hunting
 - [CVE-2023-34423 - Stored XSS on Survey Maker](https://jvn.jp/jp/JVN51098626/)
 - [CVE-2023-35764 - Insufficient Verification of Data Authenticity on Survey Maker](https://jvn.jp/jp/JVN51098626/)
 - [CVE-2024-32652 - Denial of service attack on the @hono/node-server](https://github.com/honojs/node-server/security/advisories/GHSA-hgxw-5xg3-69jx)
+- [CVE-2024-32869 - Directory Traversal on the hono](https://github.com/honojs/hono/security/advisories/GHSA-3mpf-rcc7-5347)
 
 ### Qualification
 
