@@ -1,7 +1,8 @@
 ---
 layout: default
 ---
-# y0d3n
+
+# Profile
 
 * * *
 
@@ -11,9 +12,6 @@ layout: default
 - [Bluesky](https://bsky.app/profile/y0d3n.bsky.social)
 - [𝕏 (Twitter)](https://twitter.com/y0d3n)
 - [Hatena Blog](https://y0d3n.hatenablog.com/)
-- [CTFtime](https://ctftime.org/user/79132)
-- [Doorkeeper](https://www.doorkeeper.jp/users/r21st0rebfcyfavo8444jedme10z7r)
-- [connpass](https://connpass.com/user/kirby923ya/)
 
 * * *
 
@@ -26,7 +24,7 @@ layout: default
 ### CTF Team
 
 [After_the_CM](https://ctftime.org/team/118161)
-[IPFactory](https://ctftime.org/team/11420)
+, [IPFactory](https://ctftime.org/team/11420)
 
 ### Interests
 
@@ -51,26 +49,3 @@ Web Security, Capture The Flag, Bug Hunting
 - 基本情報技術者試験
 - ITパスポート
 
-* * *
-
-## Using
-
-### PC
-
-ThinkPad X1 Carbon Gen 8
-
-### Smart Phone
-
-iPhone 13 mini, iPhone Xs
-
-### Keyboard
-
-cocot46plus ([keymap](https://remap-keys.app/catalog/JPk6Ey9xB6yrr5TDqoLh/keymap?id=lZBYnv19INZpBX0zqAox)), Corne Cherry V3, Corne Cherry Light, Corne Chocolate
-
-### Editor
-
-Visual Studio Code, Vim
-
-### Lang
-
-Golang, Japanese
