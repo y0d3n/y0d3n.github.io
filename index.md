@@ -19,7 +19,7 @@ layout: default
 
 ### Circle
 
-[IPFactory(OB)](https://ipfactory.github.io/)
+[IPFactory(OB)](https://www.ipfactory.org/)
 
 ### CTF Team
 
