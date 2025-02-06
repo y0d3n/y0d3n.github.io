@@ -9,8 +9,9 @@ layout: default
 ## Links
 
 - [Github](https://github.com/y0d3n)
-- [Bluesky](https://bsky.app/profile/y0d3n.bsky.social)
+- [mixi2](https://mixi.social/@y0d3n)
 - [𝕏 (Twitter)](https://twitter.com/y0d3n)
+- [Bluesky](https://bsky.app/profile/y0d3n.bsky.social)
 - [Hatena Blog](https://y0d3n.hatenablog.com/)
 
 * * *
